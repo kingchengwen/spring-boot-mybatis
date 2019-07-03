@@ -109,7 +109,7 @@ spring:
       - classpath:sql/employee.sql
 ```
 
-3、配置DruidConfig关联yml的配置文件spring.datasource
+### 3、配置DruidConfig关联yml的配置文件spring.datasource
 ```java
 package com.mi.config;
 
